@@ -1,0 +1,202 @@
+.are-you-a {
+  margin-block-start: 0;
+  margin-block-end: 30px;
+}
+.daya-is-seeking {
+  margin: 0;
+}
+.are-you-a-container {
+  margin: 0;
+  height: 281px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.home-dropdown {
+  width: 1023px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-61xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.icon1 {
+  height: 501.4px;
+  width: 490px;
+  position: absolute;
+  margin: 0 !important;
+  top: -58px;
+  right: 22px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-child3 {
+  width: 1105px;
+  height: 403px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-palegoldenrod-200);
+  display: none;
+  max-width: 100%;
+}
+.benefits-of-joining {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 34.44px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-height: 74px;
+  max-width: 100%;
+  z-index: 1;
+}
+.help-link-wrapper {
+  width: 512px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-2xs) 0px var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.empower-your-community {
+  margin-bottom: 0px;
+}
+.empower-your-community-be-a-f {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.empower-your-community-container {
+  width: 465px;
+  height: 163px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent2 {
+  flex: 1;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-palegoldenrod-200);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-37xl) var(--padding-46xl) var(--padding-61xl);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.benefits-highlight {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.divider-benefits {
+  width: 1105px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-62xl);
+  max-width: 100%;
+}
+.divider-benefits-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-26xl) var(--padding-97xl) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+
+@media screen and (max-width: 1225px) {
+  .divider-benefits {
+    gap: var(--gap-21xl);
+  }
+
+  .divider-benefits-wrapper {
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .home-dropdown {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+
+  .divider-benefits-wrapper {
+    padding-bottom: var(--padding-56xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .benefits-of-joining {
+    font-size: var(--font-size-5xl);
+  }
+
+  .rectangle-parent2 {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+
+  .divider-benefits {
+    gap: var(--gap-xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .are-you-a-container {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+
+  .benefits-of-joining {
+    font-size: var(--font-size-lg);
+  }
+
+  .empower-your-community-container {
+    font-size: var(--font-size-base);
+  }
+
+  .rectangle-parent2 {
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-33xl);
+    box-sizing: border-box;
+  }
+
+  .divider-benefits-wrapper {
+    padding-bottom: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+}

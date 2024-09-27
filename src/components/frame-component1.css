@@ -1,0 +1,271 @@
+.frame-child5 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(180deg, #bfe9f7, #fff);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.home2 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  z-index: 1;
+}
+.about-us3 {
+  text-decoration: none;
+  position: relative;
+  font-family: var(--font-open-sans);
+  color: inherit;
+  display: inline-block;
+  min-width: 77px;
+  z-index: 1;
+}
+.blog3 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  min-width: 39px;
+  z-index: 1;
+}
+.blog-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0px 0px;
+  font-family: var(--font-open-sans);
+}
+.home-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  max-width: 100%;
+}
+.the-story-of {
+  margin: 0;
+  height: 73px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 46.67px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.the-story-of-daya-in-africa-wrapper {
+  width: 451px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-35xl) 0px var(--padding-34xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider-icon3 {
+  height: 8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  z-index: 1;
+}
+.divider-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-58xl);
+}
+.we-are-transforming {
+  margin: 0;
+  height: 63px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.frame-parent2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-20xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-open-sans);
+}
+.frame-parent1 {
+  width: 527px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-77xl);
+  max-width: 100%;
+}
+.help-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin-top: -326px;
+  font-family: var(--font-open-sans);
+}
+.frame-container {
+  position: absolute;
+  top: 108px;
+  left: 447px;
+  width: 717px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 326px;
+  max-width: 100%;
+}
+.daya-main-logo2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 61.9px;
+  object-fit: cover;
+  z-index: 1;
+}
+.cta-child5 {
+  height: 43.4px;
+  width: 150px;
+  position: relative;
+  box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-yellowgreen);
+  display: none;
+}
+.sign-up5 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: center;
+  z-index: 1;
+}
+.cta7 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-3xs) var(--padding-5xl) var(--padding-3xs-4);
+  background-color: var(--color-yellowgreen);
+  position: absolute;
+  top: 10px;
+  left: 1079px;
+  box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+  border-radius: var(--br-15xl);
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.cta7:hover {
+  background-color: var(--color-olivedrab);
+}
+.vector-icon2 {
+  position: absolute;
+  top: 3.5px;
+  left: 33px;
+  width: 13px;
+  height: 6.5px;
+  object-fit: contain;
+  z-index: 1;
+}
+.frame-child6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(180deg, #218810, #fffdfd);
+  width: 28px;
+  height: 20px;
+  z-index: 1;
+}
+.vector-group {
+  position: absolute;
+  top: 22px;
+  left: 957px;
+  width: 46px;
+  height: 20px;
+}
+.daya-main-logo-parent {
+  position: absolute;
+  top: 87px;
+  left: 106px;
+  width: 1229px;
+  height: 61.9px;
+}
+.rectangle-parent3 {
+  align-self: stretch;
+  height: 660px;
+  position: relative;
+  background: linear-gradient(180deg, #bfe9f7, #fff);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-abeezee);
+}
+
+@media screen and (max-width: 750px) {
+  .the-story-of {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .the-story-of {
+    font-size: var(--font-size-5xl);
+  }
+
+  .we-are-transforming {
+    font-size: var(--font-size-lgi);
+  }
+}

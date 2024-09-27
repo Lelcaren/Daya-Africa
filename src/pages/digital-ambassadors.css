@@ -1,0 +1,36 @@
+.icon {
+  height: 201.8px;
+  width: 190px;
+  position: relative;
+  object-fit: cover;
+}
+.spacer {
+  width: 610px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl) 124.2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.games1 {
+  position: relative;
+  display: none;
+}
+.digital-ambassadors {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}

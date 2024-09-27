@@ -1,0 +1,201 @@
+.frame-inner {
+  width: 1105px;
+  height: 403px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-midnightblue);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.play-games-with {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.play-games-with-the-coins-you-wrapper {
+  width: 496.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-11xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider-icon1 {
+  height: 8px;
+  width: 314px;
+  position: relative;
+  z-index: 1;
+}
+.games-divider {
+  width: 492.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.have-fun-with {
+  flex: 1;
+  position: relative;
+  line-height: 23.33px;
+  display: inline-block;
+  min-height: 72px;
+  max-width: 100%;
+  z-index: 1;
+  margin-left:70px;
+}
+.bouquet {
+  width: 504px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+}
+.cta-inner {
+  height: 43.4px;
+  width: 155.7px;
+  position: relative;
+  box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-khaki);
+  display: none;
+}
+.play-now {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-open-sans);
+  color: var(--color-black);
+  text-align: center;
+  mix-blend-mode: hard-light;
+  z-index: 1;
+}
+.cta2 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-3xs) var(--padding-5xl) var(--padding-3xs-4);
+  background-color: var(--color-khaki);
+  flex: 1;
+  box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+  border-radius: var(--br-15xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.cta2:hover {
+  background-color: var(--color-darkkhaki);
+}
+.play {
+  width: 502.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-154xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.game-icon {
+  width: 506px;
+  height: 591.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: -104px;
+  left: 56px;
+  object-fit: cover;
+  z-index: 2;
+}
+.rectangle-container {
+  flex: 1;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-midnightblue);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-50xl) var(--padding-68xl) var(--padding-25xl-6);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-4xl);
+  max-width: 100%;
+}
+.home-page-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-149xl) var(--padding-128xl) var(--padding-148xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+
+@media screen and (max-width: 750px) {
+  .play-games-with {
+    font-size: var(--font-size-10xl);
+  }
+
+  .play {
+    padding-left: var(--padding-67xl);
+    padding-right: var(--padding-67xl);
+    box-sizing: border-box;
+  }
+
+  .rectangle-container {
+    padding-left: var(--padding-24xl);
+    padding-right: var(--padding-24xl);
+    box-sizing: border-box;
+  }
+
+  .home-page-child {
+    padding-left: var(--padding-64xl);
+    padding-right: var(--padding-65xl);
+    padding-bottom: var(--padding-77xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .play-games-with {
+    font-size: var(--font-size-3xl);
+  }
+
+  .have-fun-with {
+    font-size: var(--font-size-base);
+  }
+
+  .play {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .rectangle-container {
+    padding: var(--padding-26xl) var(--padding-xl) var(--padding-10xl);
+    box-sizing: border-box;
+  }
+
+  .home-page-child {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,11 @@
+.footer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-17xl) 0px var(--padding-18xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -385px;
+}

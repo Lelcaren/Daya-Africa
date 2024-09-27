@@ -1,0 +1,341 @@
+.how-to-get {
+  margin: 0;
+  height: 74px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.how-to-get-started-wrapper {
+  width: 890px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-181xl) 0px var(--padding-182xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.step-one-image {
+  width: 201px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sign-up4 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.nav-links {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-7xl) 0px var(--padding-8xl);
+}
+.join-the-squad {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.what-you-will-do-items {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs-7);
+}
+.what-you-will-do-items-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-10xs) 0px 0px;
+}
+.step-one {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-41xl-2);
+}
+.join-squad-button-wrapper {
+  height: 375.2px;
+  width: 216px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0px 0px;
+  box-sizing: border-box;
+}
+.step-two-description {
+  height: 212.9px;
+  width: 214px;
+  position: relative;
+  object-fit: cover;
+}
+.step-two-description-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-6xs) 0px 0px;
+}
+.get-trained {
+  margin: 0;
+  height: 74px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.benefits-heading-wrapper {
+  width: 199px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-lgi) 0px var(--padding-xl);
+  box-sizing: border-box;
+}
+.learn-the-ropes {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+}
+.what-you-will-do-items1 {
+  width: 213px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.step-two-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-1);
+}
+.step-two-details-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0px 0px;
+}
+.step-three-image {
+  align-self: stretch;
+  height: 221.2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.start-earning {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 34.44px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-height: 74px;
+}
+.make-money-by {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.step-three-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  flex-shrink: 0;
+}
+.step-three-details-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-30xl) 0px var(--padding-32xl);
+}
+.step-three {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-20xl-8);
+  min-width: 203px;
+}
+.step-two {
+  width: 619px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-66xl);
+  max-width: 100%;
+}
+.signup-train-earn {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-11xl);
+}
+.tech-savvy-content {
+  width: 960px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+  max-width: 100%;
+}
+.tech-savvy-content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+
+@media screen and (max-width: 1050px) {
+  .how-to-get-started-wrapper {
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+
+  .join-squad-button-wrapper {
+    flex: 1;
+  }
+
+  .step-two {
+    flex: 1;
+  }
+
+  .signup-train-earn {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .how-to-get {
+    font-size: var(--font-size-17xl);
+  }
+
+  .sign-up4 {
+    font-size: var(--font-size-5xl);
+  }
+
+  .get-trained {
+    font-size: var(--font-size-5xl);
+  }
+
+  .step-two-details-wrapper {
+    flex: 1;
+  }
+
+  .start-earning {
+    font-size: var(--font-size-5xl);
+  }
+
+  .step-two {
+    gap: var(--gap-23xl);
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-to-get {
+    font-size: var(--font-size-8xl);
+  }
+
+  .how-to-get-started-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .sign-up4 {
+    font-size: var(--font-size-lg);
+  }
+
+  .join-the-squad {
+    font-size: var(--font-size-lgi);
+  }
+
+  .get-trained {
+    font-size: var(--font-size-lg);
+  }
+
+  .learn-the-ropes {
+    font-size: var(--font-size-lgi);
+  }
+
+  .start-earning {
+    font-size: var(--font-size-lg);
+  }
+
+  .make-money-by {
+    font-size: var(--font-size-lgi);
+  }
+
+  .step-three-details-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .step-three {
+    gap: var(--gap-xl);
+  }
+
+  .step-two {
+    gap: var(--gap-2xl);
+  }
+}
